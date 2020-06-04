@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/B2BDT_VDSTransform23.jar"/>
+	<classpathentry kind="lib" path="dist/lib/CM_JavaAPI.jar"/>
+	<classpathentry kind="lib" path="dist/lib/slf4j-api-1.7.16.jar"/>
+	<classpathentry kind="lib" path="dist/lib/slf4j-log4j12-1.7.16.jar"/>
+	<classpathentry kind="lib" path="dist/lib/vds-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/CM_JavaAPI.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.16.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.16.jar"/>
+	<classpathentry kind="lib" path="lib/vds-api-2.3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

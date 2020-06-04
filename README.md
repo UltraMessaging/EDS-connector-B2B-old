@@ -1,2 +1,2 @@
-# EDS-connector-B2B-old
-EDS B2B connector, the original version.  This version has be replaced by EDS-connector-B2B
+# The original Informatica B2B Connector for Edge Data Streaming (previously VDS)
+
